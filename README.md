@@ -1,11 +1,14 @@
-# Sample Snack app
+# Website Checker App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+1. This is an App for the purpose of checking Live Website Status.
+2. For the purpose of setting up and running the APP.
+3. Open Expo using the link: https://expo.dev/
+4. Click on New Snacks. Open a new snacks.
+5. Click on three vertical dost appearing after Project Tab on left side panel.
+6. Click on "import git repository"
+7. and Check the Ouput of code on right side panel.
+8. You can also check App Output on Android using expo-go app.(expo-go needs to be installed first in device)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+OR
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+1. click on this link to check the output : - https://snack.expo.dev/@alpanavijay/website-status-checking-app   
