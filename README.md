@@ -12,3 +12,8 @@
 OR
 
 1. click on this link to check the output : - https://snack.expo.dev/@alpanavijay/website-status-checking-app   
+
+Websites checked : -
+1.https://www.merinolaminates.com/en/
+3.https://code.whitehatjr.com/
+2. https://www.ushacook.com/en/
